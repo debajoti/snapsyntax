@@ -12,7 +12,7 @@ const Footer = () => {
           <p className="left-text-bottom text-[10px]">
             Let's get this lorem ipsum sit dolor amet something
           </p>
-          <img className="left-image" src="../../public/avatar.png" />
+          <img className="left-image" src="/avatar.png" />
         </div>
 
         <div className="right-container">
