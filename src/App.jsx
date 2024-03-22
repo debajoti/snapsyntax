@@ -6,7 +6,7 @@ import Hero from "./components/Hero";
 function App() {
   return (
     <>
-      <div className="overflow-hidden">
+      <div className="overflow-hidden font-poppins">
         <Hero />
         <Details />
         <Experience />

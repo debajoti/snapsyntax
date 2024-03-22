@@ -38,13 +38,13 @@
     font-size:10px;
     align-items: center;
     text-align: center;
-    transform: translateX(5vw);
+    transform: translateX(5.5vw);
     margin-bottom:20px;
 }
 .left-image{
     width:15vw;
     height:30vh;
-    transform: translateX(4.5vw);
+    transform: translateX(6vw);
     
 }
 
@@ -112,8 +112,7 @@
     margin-top:-35px;
 }
 
-
-button{
+.btn{
     width: 400px;
     height: 40px;
     border-radius: 30px;

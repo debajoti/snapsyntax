@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="footer-container">
       <div className="outer-container font-poppins">
         <div className="left-container text-white">
-          <p className="left-text text-[20px] font-bold">
+          <p className="left-text font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
             omnis{" "}
           </p>
@@ -21,7 +21,7 @@ const Footer = () => {
             Impressed with my resume? lorem ipsumsometh<br/> Let's connect.
           </div>
           <div className="button-container">
-            <button>CONNECT WITH ME</button>
+            <button className="btn">CONNECT WITH ME</button>
           </div>
           <div className="right-division">
             <div className="selected-projects">
