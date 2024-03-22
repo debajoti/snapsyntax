@@ -1,3 +1,4 @@
+import Details from "./components/Details";
 import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
@@ -7,6 +8,7 @@ function App() {
     <>
       <div className="overflow-hidden">
         <Hero />
+        <Details />
         <Experience />
         <Footer/>
       </div>
