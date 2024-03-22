@@ -5,8 +5,8 @@ const Hero = () => {
   return (
     <>
       <Navbar />
-      <div className='flex w-full justify-center item-center font-sans font-bold text-[5rem] leading-[4.5rem]'>
-        <div className='text-center font-semibold mt-10'>
+      <div className='flex w-full justify-center item-center font-poppins font-bold text-[5rem] leading-[4.5rem]'>
+        <div className='text-center font-semibold mt-10 font-poppins'>
             SENIOR <br /><span className=''>EXPERIENCE</span> <br /> DESIGNER&#169; 
             <div className='flex flex-row justify-between w-[95%] ml-1'>
         <p className='text-xs'>lorem ipsum</p>
