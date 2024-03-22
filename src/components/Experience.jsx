@@ -3,7 +3,7 @@ import Card from "./Card";
 
 const Experience = () => {
   return (
-    <section className="relative w-screen min-h-screen p-8 font-poppins overflow-hidden">
+    <section className="relative w-screen min-h-screen p-8 font-poppins overflow-hidden mt-20">
       <div className="w-full h-full relative">
         <h1 className="relative text-[6.5rem] leading-[6rem] font-poppins font-bold">
           RELEVANT
