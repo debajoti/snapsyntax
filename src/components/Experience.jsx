@@ -5,10 +5,10 @@ const Experience = () => {
   return (
     <section className="relative w-screen min-h-screen p-8 font-poppins overflow-hidden mt-20">
       <div className="w-full h-full relative">
-        <h1 className="relative text-[6.5rem] leading-[6rem] font-poppins font-bold">
+        <h1 className="relative text-[5rem] leading-[4.5rem] font-poppins font-bold">
           RELEVANT
         </h1>
-        <h1 className="relative text-[6.5rem] leading-[6rem] font-poppins font-bold">
+        <h1 className="relative text-[5rem] leading-[4.5rem] font-poppins font-bold">
           EXPERIENCE
         </h1>
       </div>
